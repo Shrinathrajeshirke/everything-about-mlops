@@ -1,0 +1,14 @@
+# Core Jupyter Stability (2026 Stable)
+ipykernel==6.29.5
+traitlets==5.14.3
+jupyter-client==8.6.2
+jupyter
+
+# ML & Data Stack
+mlflow
+scikit-learn
+pandas
+seaborn
+numpy
+hyperopt
+xgboost
